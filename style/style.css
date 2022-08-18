@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-image: url(./bg.svg);
+    background-image: url(/bg.svg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -60,14 +60,14 @@ a{
     color: rgb(83, 83, 200);
 }
 input[class=e-mail] {
-    background-image: url(./email.svg);
+    background-image: url(/email.svg);
     background-repeat: no-repeat;
     background-position: 15px 5px;
     padding: 0px 20px 5px 40px;
     background-size: 30px;
 }
 input[class=password] {
-    background-image: url(./password\ lock.svg);
+    background-image: url(/password\ lock.svg);
     background-repeat: no-repeat;
     background-position: 15px 5px;
     padding: 0px 20px 5px 40px;
